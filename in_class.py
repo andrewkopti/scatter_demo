@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 import numpy as np
 
-who_data = pd.read_csv('C:/Drive/Documents/UNCC/5122/Resources/WHO_data.csv')
+who_data = pd.read_csv('WHO_data.csv')
 
 st.write(who_data)
 
